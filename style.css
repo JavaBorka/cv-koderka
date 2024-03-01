@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    background-color: #362B2E;
+    color: #A88590;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+header {
+    background-color:#f9f0ff;
+    overflow: auto;
+}
+
+h1 {
+    color: #f37b83;
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+    font-weight: 800;
+    font-style: normal;
+    line-height: 1.2;
+    margin: 0 0 40px 0;
+}
+
+h2 {
+    color: #492d31;
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    font-weight: 300;
+    font-style: normal;
+    margin: 50px 0 25px 0;
+}
+
+.foto-cv {
+    width: 350px;
+    float: right;
+    border-radius: 50%;
+    margin: 50px 50px 50px 50px;
+}
+
+header p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.udaje-hlavicka {
+    width: 300px;
+    float: left;
+    color: white;
+    background-color: #362B2E;
+    text-decoration: none;
+    margin: 0 120px 40px 0;
+    overflow: auto;
+}
+
+header li {
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #f37b83;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 50px 0 50px 0;
+}
+
+header li p {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin: 0;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.menu {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: #A88590;
+    font-weight: 400;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 20px 30px;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active {
+    background-color: #362A2E;
+}
