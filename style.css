@@ -96,3 +96,34 @@ header li p {
 .menu a:active {
     background-color: #362A2E;
 }
+
+.zkusenosti {
+    overflow: auto;
+    padding: 30px 20px;
+    margin: 70px;
+    background-color: #292023;
+}
+
+.zkusenosti ul {
+    list-style-type: circle;
+    margin: 30px;
+    line-height: 1.5;
+}
+
+.zkusenosti li {
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #f37b83;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 330px;
+}
+
+.foto-us {
+    float: left;
+    border-radius: 50%;
+    margin: 0 80px 180px 30px;
+}
