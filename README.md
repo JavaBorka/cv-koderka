@@ -1,4 +1,6 @@
-# Životopis - úvodní projekt pro kurz Staň se kodérkou
+# CV Barbora Lendacká
+
+- toto je úvodní projekt pro kurz Staň se kodérkou
 
 - vizuál projektu je inspirován webem viz. níže. Kód jsem psala sama a jsem si vědoma nedostatků, které chci v průběhu kurzu postupně odstraňovat.
 https://demo.cocobasic.com/volos-wp/demo-1/
