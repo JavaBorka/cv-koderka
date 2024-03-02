@@ -100,7 +100,7 @@ header li p {
 .zkusenosti {
     overflow: auto;
     padding: 30px 20px;
-    margin: 70px;
+    margin: 70px 70px 0 70px;
     background-color: #292023;
 }
 
@@ -127,3 +127,86 @@ h3 {
     border-radius: 50%;
     margin: 0 80px 180px 30px;
 }
+
+/* .kurzy {
+    overflow: auto;
+    padding: 30px 20px;
+    margin: 70px;
+    background-color: #292023;
+} */
+
+h4 {
+    color: #f37b83;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 270px;
+}
+
+.kurzy {
+    float: left;
+    overflow: auto;
+    padding: 30px 20px;
+    margin: 70px 0 70px 70px;
+    width: 40%;
+    background-color: #292023;
+}
+
+
+.kurzy ul {
+    list-style-type: circle;
+    margin: 30px;
+    line-height: 1.5;
+}
+
+.kurzy li {
+    margin-bottom: 20px;
+}
+
+.kurzy p {
+    margin: 0;
+}
+
+.foto-czechitas {
+    float: left;
+    border-radius: 50%;
+    margin: 0 80px 180px 30px;
+    width: 160px;
+}
+
+.skoly {
+    float: right;
+    overflow: auto;
+    padding: 30px 20px;
+    margin: 70px 70px 70px 0;
+    width: 40%;
+    background-color: #292023;
+}
+
+.skoly ul {
+    list-style-type: circle;
+    margin: 30px;
+    line-height: 1.5;
+}
+
+.skoly li {
+    margin-bottom: 40px;
+}
+
+.skoly p {
+    margin: 5px;
+}
+
+.foto-vse {
+    float: left;
+    border-radius: 50%;
+    margin: 0 80px 180px 30px;
+    width: 160px;
+}
+
+/* .foto-ulm {
+    float: left;
+    border-radius: 50%;
+    margin: 0 80px 180px 30px;
+    width: 150px;
+} */
