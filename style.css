@@ -178,7 +178,7 @@ h4 {
     float: right;
     overflow: auto;
     padding: 30px 20px;
-    margin: 70px 70px 70px 0;
+    margin: 70px 70px 125px 0;
     width: 40%;
     background-color: #292023;
 }
@@ -190,7 +190,7 @@ h4 {
 }
 
 .skoly li {
-    margin-bottom: 40px;
+    margin-bottom: 50px;
 }
 
 .skoly p {
@@ -210,3 +210,69 @@ h4 {
     margin: 0 80px 180px 30px;
     width: 150px;
 } */
+
+.certifikaty {
+    clear: left;
+    padding: 50px 80px;
+    margin: 70px 70px 70px 70px;
+    background-color: #292023;
+}
+
+.certifikaty img {
+    width: 33%;
+}
+
+h5 {
+    color: #f37b83;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 0;
+}
+
+.sport {
+    padding: 50px 60px;
+    margin: 70px 70px 70px 70px;
+    background-color: #292023;
+}
+
+.sport ul {
+    list-style-type: circle;
+    margin: 30px;
+    line-height: 1.5;
+}
+
+.sport li {
+    margin-bottom: 20px;
+}
+
+.sport p {
+    margin: 0;
+}
+
+.foto-slalom {
+    float: left;
+    width: 330px;
+    border-radius: 50%;
+    margin: 0 80px 180px 30px;
+}
+
+h6 {
+    color: #f37b83;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    margin: 0 0 50px 435px;
+
+}
+
+.paticka {
+    background-color: #292023;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+.paticka p {
+    margin: 0;
+}
